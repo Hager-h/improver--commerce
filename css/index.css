@@ -1604,18 +1604,9 @@ input[type="radio"]:checked {
 @media(max-width:1024px)
 {
 
-.box-collection1{
+.box-collection1, .box-collection2 {
+    min-width: 100%;
 
-    margin: 15px 5px;
-  
-
-}
-
-.colection {
-
-     flex-wrap: nowrap;
-    text-align: center;
-}
 
   
 
